@@ -1,0 +1,12 @@
+# Ignore MySQL files
+mysql/auto.cnf
+mysql/binlog.index
+mysql/ib_buffer_pool
+mysql/mysql.sock
+
+# Ignore node_modules
+node_modules/
+
+# Ignore log files and temporary files
+*.log
+*.tmp
